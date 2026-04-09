@@ -22,4 +22,3 @@ This project analyzes the effectiveness of hashtags in enhancing social media en
 ## 📊 Dataset
 - Survey responses from 340 participants.
 
-## 📂 Repository Structure
