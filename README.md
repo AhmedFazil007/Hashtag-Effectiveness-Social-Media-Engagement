@@ -22,3 +22,8 @@ This project analyzes the effectiveness of hashtags in enhancing social media en
 ## 📊 Dataset
 - Survey responses from 340 participants.
 
+
+
+## Research document
+
+[Read the full research project (PDF)](research/Research_Project.pdf)
