@@ -2,7 +2,7 @@
 
 **Marketing research · Survey analysis · Excel · SPSS**
 
-I chose this topic because hashtags are everywhere in social media marketing, but using more hashtags doesn't automatically mean a post will connect with people. I wanted to explore **how people perceive hashtag use and what kinds of content they associate with stronger engagement**.
+Hashtags are everywhere in social media marketing, but adding more of them doesn't necessarily make a post more engaging. I wanted to explore **how people perceive hashtag use and what kinds of content they associate with stronger engagement**.
 
 This research project is based on survey responses from **340 participants**, with analysis presented in the full report.
 
